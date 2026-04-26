@@ -167,7 +167,7 @@ function App() {
       <div style={styles.card}>
         <div style={styles.header}>
           <h1 style={{ margin: 0, fontSize: '28px' }}>نظام التشفير الكلاسيكي</h1>
-          <p style={{ color: '#666', marginTop: '5px' }}>بروجكت تشفير القيصر وأفاين مع إظهار خطوات الحل</p>
+          <p style={{ color: '#666', marginTop: '5px' }}></p>
         </div>
 
         {/* 1. المدخلات */}
